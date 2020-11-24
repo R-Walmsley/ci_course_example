@@ -1,5 +1,7 @@
 # OxRSE Continuous Integration course
 
+[![codecov](https://codecov.io/gh/R-Walmsley/ci_course_example/branch/main/graph/badge.svg?token=WN2WKYTIR2)](https://codecov.io/gh/R-Walmsley/ci_course_example)
+
 This project contains a small Python project. We are going to use free cloud services to automate:
 
 - unit testing on multiple Python versions
